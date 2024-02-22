@@ -1,5 +1,3 @@
-Natnael Teshome
-notice the server only runs on UNT's cse02 server, if you want it to run on your own server you have to modify the server ip address in the client.
 
 to run server using makefile on cse02
 make serv
